@@ -158,7 +158,7 @@ const Dashboard = () => {
 
         {/* Dashboard Content */}
         <main className="flex-1 p-4 overflow-x-hidden">
-          {/* 👆 stops horizontal scrolling */}
+          {/*  stops horizontal scrolling */}
 
           <h2 className="text-l font mb-2">
             Welcome,{" "}

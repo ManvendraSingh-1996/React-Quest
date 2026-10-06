@@ -24,9 +24,9 @@ function App() {
             <Route
               path="/dashboard"
               element={
-                <ProtectedRoute>
-                  <DashboardPage />
-                </ProtectedRoute>
+                // <ProtectedRoute>
+                <DashboardPage />
+                // </ProtectedRoute>
               }
             />
 
